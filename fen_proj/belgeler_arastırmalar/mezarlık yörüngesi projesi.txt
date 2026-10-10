@@ -1,1 +1,0 @@
-Mezarlık Yörüngesi Görev süresi dolan uydular, aktif uyduların yolundan çıkarılarak daha uzak bir mezarlık yörüngesine gönderilir.
